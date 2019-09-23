@@ -45,5 +45,5 @@ def query(data):
 if __name__ == "__main__":
     while True:
         data = input()
-        query(data)
+        query(data) 
         print(Fore.RESET + Back.RESET + Style.RESET_ALL)
